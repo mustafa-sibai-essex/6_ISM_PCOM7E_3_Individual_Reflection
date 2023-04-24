@@ -1,6 +1,6 @@
 ## What
 
-<img src="static/learning.png" width="475" height="auto" style="float: right; margin: 0 0 0 15px;">
+<img src="static/learning.png" width="475" height="auto" align="right">
 
 This unit has focused on security and threat modelling, Security standards, Disaster recovery, and Risk management. This has been a fascinating unit. It expanded on everything I learned in Network Security which was the previous unit. Every week leading up to the first assignment, which was due in week 3, has taught me something new which aided me in completing the first assignment. 
 
